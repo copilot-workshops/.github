@@ -6,4 +6,4 @@ Here's a our list of workshops you may like to complete to see how GitHub Copilo
 
 WORKSHOP | ABOUT
 --- | ---
-<img> | Get started building a [Rock Paper Scissors]() game using Python and GitHub Copilot
+<img width='200' src="./thumbnails/Rock Paper Scissors thumbnail.png" /> | Get started building a [Rock Paper Scissors](https://github.com/copilot-workshops/copilot-rock-paper-scissors) game using Python and GitHub Copilot
